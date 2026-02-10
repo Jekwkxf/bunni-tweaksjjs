@@ -1,10 +1,3 @@
-// ==VendettaPlugin==
-// @name Fake Early Supporter
-// @description Adds the Early Supporter badge locally (client-side only)
-// @version 1.0.0
-// @author You
-// ==/VendettaPlugin==
-
 import { findByProps } from "@vendetta/metro";
 import { after } from "@vendetta/patcher";
 import { storage } from "@vendetta/plugin";
