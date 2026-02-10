@@ -1,7 +1,7 @@
 {
   "name": "Fake Early Supporter",
-  "description": "Shows the Early Supporter badge locally (client-side only)",
+  "description": "Shows the Early Supporter badge locally",
   "version": "1.0.0",
-  "author": "Jekwkxf",
+  "authors": ["Jekwkxf"],
   "main": "FakeEarlySupporter.js"
 }
