@@ -1,7 +1,13 @@
 {
   "name": "Fake Early Supporter",
-  "description": "Shows the Early Supporter badge locally",
-  "version": "1.0.0",
-  "authors": ["Jekwkxf"],
-  "main": "FakeEarlySupporter.js"
+  "description": "Shows Early Supporter badge locally (client-side only)",
+  "authors": [
+    {
+      "name": "Jekwkxf"
+    }
+  ],
+  "main": "./src/index.ts",
+  "vendetta": {
+    "icon": "BadgeIcon"
+  }
 }
